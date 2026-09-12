@@ -30,17 +30,3 @@ print("Hello, World!")
 ```text
 Hello, World!
 ```
-
-### What We Learn From This Program
-
-By writing this simple program, we learn:
-
-1. How to write a basic Python statement.
-2. How to use the `print()` function.
-3. How to display text as output.
-4. How strings are written using quotation marks.
-5. The basic way Python programs are executed.
-
-### Conclusion
-
-Although the Hello World program is very simple, it is an important first step in learning Python. As we progress, we will use the same basic concepts to create more complex programs and projects.
