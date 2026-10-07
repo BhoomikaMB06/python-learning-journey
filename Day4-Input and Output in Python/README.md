@@ -1,4 +1,5 @@
-Input and Output in Python
+  Input and Output in Python
+
 The print() function is used for output in various formats and the input() function enables interaction with users.
 
 Taking Input using input()
@@ -33,8 +34,8 @@ s = "Anjelina"
 age = 25
 city = "New York"
 print(s, age, city)
-
-Output
+  
+  Output
 Brad
 Anjelina 25 New York
 We can also take multiple inputs at once from the user in a single line, splitting the values entered by the user into separate variables for each value using the split() method:
