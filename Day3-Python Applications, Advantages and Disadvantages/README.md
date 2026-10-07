@@ -71,7 +71,7 @@ Some popular examples are:
 
 Python is an open-source programming language, which means it is freely available to use. It also has a large and active community of developers who create libraries, tools, tutorials, and solutions to common problems.
 
-### 4. Dynamically Typed Language
+### 4. Dynamically Typed Languag
 
 Python is dynamically typed, so developers do not need to explicitly declare the data type of a variable.
 
